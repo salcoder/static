@@ -1,2 +1,2 @@
-# static
+# Static
 Testing site for Jenkins
